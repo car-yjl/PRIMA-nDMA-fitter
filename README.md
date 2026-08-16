@@ -1,0 +1,2 @@
+# nDMA-squigglefitter
+Fits squiggles
